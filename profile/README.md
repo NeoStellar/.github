@@ -1,7 +1,7 @@
 
 # Neo Stellar Aviation Team
 
-Neo Stellar, founded by Yiğit YILMAZ in 2022, is an innovative aviation team comprised of 20 talented students specializing in various branches of the field. Our diverse team brings together a wealth of knowledge and expertise, united by our passion for aviation. With a commitment to excellence and collaboration, we strive to push the boundaries of innovation in the industry. Together, we soar towards new horizons, embodying the spirit of progress and discovery.
+Neo Stellar, founded in 2022, is an innovative aviation team comprised of 20 talented students specializing in various branches of the field. Our diverse team brings together a wealth of knowledge and expertise, united by our passion for aviation. With a commitment to excellence and collaboration, we strive to push the boundaries of innovation in the industry. Together, we soar towards new horizons, embodying the spirit of progress and discovery.
 
 ## Roadmap
 
