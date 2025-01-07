@@ -20,7 +20,6 @@ Neo Stellar, founded in 2022, is an innovative aviation team comprised of 20 tal
 - [@KardasLand](https://github.com/KardasLand)
 - [@yalinn](https://github.com/yalinn)
 - [@TechnicalUserX](https://github.com/TechnicalUserX)
-- [@melihoverflow5](https://github.com/melihoverflow5)
 - [@ozkaleutku](https://github.com/ozkaleutku)
 
 
@@ -28,4 +27,3 @@ Neo Stellar, founded in 2022, is an innovative aviation team comprised of 20 tal
 ## Websites
 
 - [🇬🇧 Neo Stellar Website](https://neostellar.net)
-- [🇹🇷 IHAnom Türkiye IHA Forumu](https://ihanom.com.tr)
